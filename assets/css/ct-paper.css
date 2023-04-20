@@ -2729,3 +2729,15 @@ textarea.form-control {
 .datepicker-months thead {
   padding: 0 0 3px;
   display: block; }
+
+  .white-bg,
+  h1 span, 
+  h3 span{
+    background-color: #ffffff99;
+    color: rgba(0, 0, 0, 0.80);
+  }
+
+  /* h1 span{
+    background-color: #ffffff75;
+    color: rgba(0, 0, 0, 0.80);
+  } */
