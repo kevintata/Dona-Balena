@@ -2737,7 +2737,8 @@ textarea.form-control {
     color: rgba(0, 0, 0, 0.80);
   }
 
-  /* h1 span{
-    background-color: #ffffff75;
-    color: rgba(0, 0, 0, 0.80);
-  } */
+@media screen and (max-width: 450px) {
+  h1 span{
+    font-size: 48px;
+  }
+}
